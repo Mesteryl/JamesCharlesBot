@@ -269,4 +269,5 @@ async def on_message(message):
 
 clinet.loop.create_task(update_stats())
 
-clinet.login(process.env.BOT_TOKEN)
+#clinet.login(process.env.BOT_TOKEN)
+clinet.run("NjU2OTU1Mzc5NTQ0MjI3ODQw.XfqLfQ.fOnYi4k3C70PNPYvsOks4LHCpDQ")
